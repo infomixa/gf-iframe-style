@@ -29,8 +29,8 @@ input[type="submit"].gform_button {
     color: #000;
 }
     
-iframe.gfiframe {
-    width: 100%;
+.gfield_label, .ginput_complex label {
+    display: none !important;
 }
     
 </style>
