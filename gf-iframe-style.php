@@ -29,6 +29,10 @@ input[type="submit"].gform_button {
     color: #000;
 }
     
+iframe.gfiframe {
+    width: 100%;
+}
+    
 </style>
 <?php }
 add_action('gfiframe_head', 'gfIframeStyle');
