@@ -29,7 +29,7 @@ input[type="submit"].gform_button {
     color: #000;
 }
     
-gfield_label, ginput_complex label {
+.gfield_label, .ginput_complex label {
     display: none !important;
 }
     
