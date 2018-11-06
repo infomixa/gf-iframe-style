@@ -7,7 +7,7 @@ function gfIframeStyle($form_id) { ?>
 <!-- this is HTML -->
 <style>
 input[type="submit"].gform_button {
-    background: #2b5e7c;
+    background: #f16334;
     color: #fff;
     font-size: 18px !important;
     height: 60px;
