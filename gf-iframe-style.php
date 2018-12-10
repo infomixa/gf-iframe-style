@@ -13,7 +13,18 @@ input[type="submit"].gform_button {
     height: 60px;
     width: 100% !important;
 }
-
+   
+@media (max-width: 641px) {
+input[type="submit"].gform_button {
+    background: #f16334;
+    color: #fff;
+    font-size: 18px !important;
+    height: 60px;
+    width: 100% !important;
+    -webkit-appearance: none;
+    }
+}
+    
 .gform_wrapper input[type=text] {
     height: 50px;
     border: 3px solid #dbdbdb;
