@@ -39,6 +39,10 @@ input[type="submit"].gform_button {
     outline: none; 
     color: #000;
 }
+
+li.gfield_html, label {
+	font-size: 13px !important;
+}
     
 .gfield_label, .ginput_complex label {
     display: none !important;
@@ -48,3 +52,4 @@ input[type="submit"].gform_button {
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 <?php }
 add_action('gfiframe_head', 'gfIframeStyle');
+
