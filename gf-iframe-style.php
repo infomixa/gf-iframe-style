@@ -12,6 +12,7 @@ input[type="submit"].gform_button {
     font-size: 18px !important;
     height: 60px;
     width: 100% !important;
+    -webkit-appearance: none;
 }
    
 @media (max-width: 641px) {
@@ -62,12 +63,14 @@ label {
 	width: 108px !important;
 	background-color: #0e85bf;
 	cursor: pointer;
+    -webkit-appearance: none;
 }
 
 input[type=submit].gform_button {
 	margin-top: 12px !important;
 	border-radius: 3px;
 	border: none;
+    -webkit-appearance: none;
 }
 
 .gform_wrapper .gfield_radio li label {
