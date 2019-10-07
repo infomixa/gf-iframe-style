@@ -24,6 +24,25 @@ input[type="submit"].gform_button {
     width: 100% !important;
     -webkit-appearance: none;
     }
+
+.gform_page_footer input[type=button], .gform_page_footer input.gform_next_button {
+	font-size: 16px !important;
+	border: none;
+	border-radius: 3px;
+	color: white;
+	padding: 10px 0;
+	width: 108px !important;
+	background-color: #0e85bf;
+	cursor: pointer;
+    -webkit-appearance: none;
+}
+    
+input[type=submit].gform_button {
+	margin-top: 12px !important;
+	border-radius: 3px;
+	border: none;
+    -webkit-appearance: none;
+}
 }
     
 .gform_wrapper input[type=text] {
@@ -63,14 +82,12 @@ label {
 	width: 108px !important;
 	background-color: #0e85bf;
 	cursor: pointer;
-    -webkit-appearance: none;
 }
 
 input[type=submit].gform_button {
 	margin-top: 12px !important;
 	border-radius: 3px;
 	border: none;
-    -webkit-appearance: none;
 }
 
 .gform_wrapper .gfield_radio li label {
