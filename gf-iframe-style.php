@@ -51,6 +51,7 @@ input[type=submit].gform_button {
     border-radius: 5px;
     outline: none; 
     color: #000;
+	font-size: 16px !important;
 }
 
 .gform_wrapper textarea {
@@ -58,6 +59,7 @@ input[type=submit].gform_button {
     border-radius: 5px;
     outline: none; 
     color: #000;
+	font-size: 16px !important;
 }
 
 label {
