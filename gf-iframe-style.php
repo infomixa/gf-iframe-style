@@ -99,11 +99,11 @@ input[type=submit].gform_button {
 }
 
 h3.gf_progressbar_title {
-	font-size: 13px !important;
+	font-size: 16px !important;
 }
 
 .gform_wrapper .gf_progressbar_percentage span {
-	font-size: 12px !important;
+	font-size: 16px !important;
 	margin-top: 2px !important;
 	margin-right: 8px !important;
 }
